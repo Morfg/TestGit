@@ -24,9 +24,13 @@
 
 #Коммент 9 от Sanifrey#######
 
+<<<<<<< HEAD
 22233
 #Коммент 9 от Sanifrey#######
 
 получится
 
 44
+=======
+#Коммент 10 от Sanifrey#######
+>>>>>>> refs/remotes/origin/master
